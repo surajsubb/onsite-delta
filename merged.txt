@@ -1,0 +1,11 @@
+rollno email name branch phoneno gradyear
+11061254 random1@email.com xyzsg CSE 123456 2021
+11021269 random2@email.com abc PROD 125864 2021
+11033256 random3@email.com gftfy ICE 124863 2025
+11042594 random4@email.com hgf CHEM 123894 2022
+11052158 random5@email.com jgt MME 548621 2021
+11081254 random6@email.com jghry ECE 468932 2022
+11011486 random7@email.com nvy EEE 759643 2020
+11061253 random8@email.com lsd ECE 356984 2023
+11101247 random9@email.com mewuid CSE 369457 2023
+11214568 random10@email.com hiuyr CIVIL 126598 2024
