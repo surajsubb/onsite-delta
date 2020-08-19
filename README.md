@@ -1,5 +1,5 @@
 # onsite-delta
-onsite taskd delta
+onsite tasks delta/
 task 1
 EPG = email phoneno gradyear
 RB = rollno branch
